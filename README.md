@@ -18,8 +18,8 @@
 
 ### <span style="color: #9b59b6;">...además</span> / <span style="color: #9b59b6;">also</span>
 
-A practicing psychologist and therapist.
-Currently obsessed with **<span style="color: #d35400;">noise music</span>**.
+piscólogo clínico /therapist.
+actualmente obsesionado con/ Currently obsessed with **<span style="color: #d35400;">noise music</span>**.
 
 ---
 
