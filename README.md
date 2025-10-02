@@ -10,7 +10,8 @@
    - ####  > filosofia /philosophy
    - #### > politica /politics]
 
-#### ...ademas psicólogo /also a therapist
+#### ...ademas psicólogo /also a therapist,
+   currently obssed with noise music
 
 
  ###### [god have mercy of me learning how to code]
