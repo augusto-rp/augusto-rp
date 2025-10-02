@@ -1,19 +1,19 @@
 
-augusto rodriguez paniagua
-estudiante doctorado psicologia PUC /psychology phd student
+### augusto rodriguez paniagua
+- estudiante doctorado psicologia PUC /psychology phd student
 
-#intereses
-- humor y/and --->
-   -  > dinámicas grupales /group dynamics
-   -  > normativity /normativity
-   -  > desarrollo de actitudes /attitude development
-   -  > filosofia /philosophy
-   -  > politica /politics
+#### [intereses /interested in]
+- #### humor y/and --->
+   - ####  > dinámicas grupales /group dynamics
+   - ####  > normativity /normativity
+   - ####  > desarrollo de actitudes /attitude development
+   - ####  > filosofia /philosophy
+   - #### > politica /politics]
 
-###...ademas psicólogo /also a therapist
+#### ...ademas psicólogo /also a therapist
 
 
-####god have mercy of me learning how to code
+ ###### [god have mercy of me learning how to code]
 
 <!--
 **augusto-rp/augusto-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
