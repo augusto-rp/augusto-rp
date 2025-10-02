@@ -1,4 +1,17 @@
-## Hi there 👋
+
+augusto rodriguez paniagua
+estudiante doctorado psicologia PUC
+
+#intereses
+- humor y --->
+   -  > dinámicas grupales
+   -  > normas
+   -  > desarrollo de actitudes
+   -  > filosofia
+   -  > politica
+
+...ademas psicólogo
+
 
 <!--
 **augusto-rp/augusto-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
