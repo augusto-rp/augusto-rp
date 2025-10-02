@@ -7,7 +7,7 @@
 
 ### <span style="color: #e74c3c;">intereses</span> / <span style="color: #e74c3c;">interested in</span>
 
-My research focuses on **<span style="color: #16a085;">humor</span>** and its relationship with:
+ **<span style="color: #16a085;">humor</span>** y su relacion con /and its relationship with:
 - <span style="color: #27ae60;">**dinámicas grupales** / group dynamics</span>
 - <span style="color: #27ae60;">**normatividad** / normativity</span>
 - <span style="color: #27ae60;">**desarrollo de actitudes** / attitude development</span>
